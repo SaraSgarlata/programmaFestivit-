@@ -53,7 +53,7 @@ public class Main {
 			
 			
 		}while (risp.equals("si"));
- 			System.out.println("grazie e vaffanculo");
+ 			System.out.println("grazie e arrivederci");
 	   
 				
 				
